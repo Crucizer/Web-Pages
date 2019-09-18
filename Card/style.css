@@ -1,0 +1,75 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: #0a3d62;
+}
+
+.card{
+  width: 340px;
+  background: #f1f1f1;
+  overflow: hidden;
+  font-family: "Montserrat", sans-serif;
+}
+
+.middle{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.top-section{
+  position: relative;
+}
+
+.top-section img{
+  width:100%;
+}
+
+.info-section{
+  padding: 30px;
+  padding-top: 0;
+  color: #333;
+}
+.name{
+  padding: 10px 0 0;
+  font-size: 30px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+h2{
+  position: relative;
+  font-size: 18px;
+}
+
+.border{
+  width: 30px;
+  height: 3px;
+  background: #778beb;
+  position: absolute;
+  left: 0;
+  bottom: -6px;
+}
+
+p{
+  font-size: 18;
+}
+
+.s-m{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.s-m a{
+    text-decoration: none;
+    font-size: 25px;
+    color: #333;
+    padding: 0 14px;
+    transition: .4s;
+}
+
+.s-m a:hover{
+  color: #778beb;
+
+}
