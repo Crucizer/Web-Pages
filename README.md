@@ -1,3 +1,3 @@
-# Web-Pages
+## Some cool web pages
 
-These Are Some Of The Sample Web Pages That I Made With HTML & CSS
+These are some web pages templates that anyone can use to add in their website.
